@@ -1,0 +1,11 @@
+accounts/__pycache__/
+accounts/migrations/__pycache__/
+
+groups/__pycache__/
+groups/migrations/__pycache__/
+
+posts/__pycache__/
+posts/migrations/__pycache__/
+
+simpleblog/__pycache__/
+simpleblog/migrations/__pycache__/
